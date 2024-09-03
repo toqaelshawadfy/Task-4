@@ -1,0 +1,26 @@
+# My Website Project 
+"Advanced Blog"
+ 
+
+## Project Overview
+The Advanced Blog Website is a simple-featured web application designed to allow users in his profile publish blog posts with an intuitive and user-friendly interface.
+
+### Project Structure
+The project is organized as follows:
+
+#Features
+ - **Responsive Navigation Men** A navigation menu that adapts to different screen sizes with a hamburger menu for mobile devices.
+ - **Responsive Article:** A Article that adapts to different screen sizes is the blog (post) information
+ - **Responsive Aside:** A Aside that adapts to different screen sizes 
+ - **Back to Top Button:** A button that appears when the user scrolls down the page, allowing them to quickly return to the top.
+ - **Contact Form:** A simple contact form in the footer where users can submit their email and message.
+ - **Links Socila:** A Social Links Icons for User to follow.
+
+ ## How to Run
+
+1. **Clone the Repository:**
+2. **Open the Project:**
+- Navigate to the project directory and open `index.html` in your web browser.
+
+3. **Customize:**
+- You can customize the content, styles, and scripts by editing the respective files (`index.html`, `styles.css`, and `script.js`).
